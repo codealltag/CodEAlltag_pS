@@ -1,0 +1,16 @@
+Hallo Karlheinz,
+
+
+Ich bin derzeit in Jengen und komme morgen deshalb nicht zum Meeting.
+
+Wenn ich Glück habe werden meine Augen morgen einer Prozedur unterzogen, die meine sehr schnell schlechter werdende Sicht rettet.
+
+
+Kleines Update zu meiner Arbeit: Linebuffer-Struktur ist in CLaSH implementiert. Jetzt muss noch die eigentliche Faltungsoperation gemacht werden.
+
+Frage: Kann ich den schrittweisen Aufbau des Filters mit in die Arbeit nehmen oder ist nur der Endvergleich interessant?
+
+
+LG
+
+Vincent

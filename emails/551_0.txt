@@ -1,0 +1,17 @@
+Hallo zusammen,
+
+die Gerüchteküche behauptet, dass ein Umstieg weg von EgoCMS ansteht.
+Falls das wahr ist, dann wäre jetzt schon der grobe Zeitpunkt (das Jahr)
+interessant und ob die Mandanten autom. migrieren.
+
+Von anderer Seite gibt es von einem Postdoc den Wunsch für ein BMBF
+Projekt einen eigenen Mandanten zu bekommen, ist das möglich? Gibt es
+formale Hürden?
+Die Anforderungen dort sind laut aktueller Aussage gering: hauptsächlich
+einzelne Seiten, keine bis maximale geringe Downloads, kleiner Nutzerkreis.
+
+Mit freundlichen Grüßen,
+Rodolfo Steidle
+-- 
+JPU Lobkevitz | JBJW/Rodolfo+Steidle.html
+vox: +91 4273 9 60096 | fax: +07 9396 5 44478

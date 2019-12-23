@@ -1,0 +1,14 @@
+Sehr geehrter Herr Prof. Peetz
+
+Wie wir haben gesprochen, ich mache die Projekt mit einem kollege von anderen Grupp, wir haben auch mit prof. freier gesprochen, er hat gesagt ist keine problem.
+
+Ich bin Ullrich Ulmer und mein kollege ist Bert Tacke.
+
+Wir wollen programmieren ein webshop.
+Der Zweck des web ist  schuhe verkaufen.
+Die Applikation besteht aus zwei bereiche, eine ist für Administrator und zweite bereich ist für kunde.
+Der Administrator kann Produkte hinzufügen, um verschiedene Kategorien erstellen, um die Preise zu ändern, usw.
+Die Kunden kann durch die Kategorien navigieren oder neue Produkte von der ersten Seite zu sehen, auch hier kann der Kunde den Admin schreiben und am wichtigsten ist sie können Produkte online kaufen und bestellen
+
+Mit freundlichen Grüßen
+Ullrich Ulmer

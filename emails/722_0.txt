@@ -1,0 +1,22 @@
+Guten Morgen!
+
+Hab das ganze jetzt an sich Hadoop-fertig gemacht. Es hängt aber noch an 
+ner Stelle, wo jedes mal beim Ausführen im HDFS ne nullPointerException 
+gerworfen wird, sobald er auf das erste Bild zugreifen möchte (oder 
+schon auf den Ordner darüber, weiß nicht genau).
+
+Sollte ich das Montag Vormittag nicht schnell genug hinbekommen, zeigen 
+wir das ganze einfach in Java so wie es bei dir ja auch schon gelaufen 
+ist. Das funzt bei mir nämlich einwandfrei. Ich kann meine virtuelle 
+Maschine allerdings nicht auf meinen Laptop packen, da der damit 
+hoffnungslos überfordert wäre. Geht das bei dir einfacher? Bitte um 
+Rückmeldung. Wenn ja, nimm du morgen deinen Laptop mit lauffähigem 
+Programm mit. Wenn nicht, dann mach ich einfach ein paar Screens von den 
+Ausfühungs-Details und wir erklären die Sache halt. Den Java Codekann 
+man ja auch so herzeigen.
+
+Die Präsentation pfister ich morgen auch noch schnell zusammen. Weißt du 
+zufällig wie lange die sein soll? Hab derweil keinen Plan was ich da 
+groß reinpacken soll. XD
+
+lg, Urban

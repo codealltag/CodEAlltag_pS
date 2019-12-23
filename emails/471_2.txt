@@ -1,0 +1,22 @@
+Hallo Klaus,
+ich war krank, aber zum Vortrag werde ich wider fit (bestimt!). Ich 
+werde jetz den Text des Vortrags und meine Teil der Presentation 
+fertig machen (so bald vertig - schicke ich die dir). Entschuldigung, 
+dass ich mich so spät melde. Wir können uns, wenn nutzlich, in nahste
+3 Tage treffen. Ich habe heute Prüfung von 10 bis 12 und dann bin ich
+frei.
+Morgen auch fast das selbe - von 12 bis 14 Uhr - Prüfung, dann 
+Beschprechung von andere Klausur, dann frei. Donnerstag – den ganzen 
+Tag – frei(am besten für mich zu treffen ist).
+Meine Gesprächsthemen sind - Stichwörter – 1. „Erste“ und leichteste 
+Maßnahmen. Sicherheitslücken in Software (besonders hier – 
+Betriebssystemen,
+Browser) und Hardware – PC, Tablets und Smartphone; wie soll man 
+besser mit Privatdaten umgehen -  E-Mail, Soziale Netzwerke, Cloud 
+storage, Suchmashinen, etc; was ist ein richtiges Password, wie  damit 
+umgehen und seine Alternativen; 2. Vertiefung.
+Anonymität, Verschlüsselung in Internet und Gesetze; Kryptographie und 
+Steganographie;  Verschlüsselung von HHD, sichere HHD und 
+USB-Massenspeicher; Routing und TOR; PROXI, VPN/SSH; I2P, und andere 
+Wege; Ich versuche alles kurz zusammen zu fassen.
+LG, Gretel
