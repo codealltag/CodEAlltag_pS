@@ -1,9 +1,8 @@
-# CodE Alltag<sub>pS</sub>
+# CodE Alltag<sub>S</sub>
 
-CodE Alltag<sub>pS</sub> is part of CodE Alltag, a German-language email corpus. It has been collected on the basis of voluntary email donation and contains 800 pseudonymized emails including demographic information on the senders.
+CodE Alltag<sub>S</sub> is part of CodE Alltag, a German-language email corpus. It has been collected via voluntary email donation without restricting the type or topic of the emails and contains 800 pseudonymized emails from 460 different donors (mostly German native speakers). For pseudonymization, privacy-sensitive text spans were annotated manually before substituting them with realistic surrogates automatically.
 
-
-If you use CodE Alltag please cite:
+If you use CodE Alltag, please cite:
 
 ```
 @inproceedings{Krieg16,
